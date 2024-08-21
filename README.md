@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Screenshot
 
 ![react table](https://github.com/user-attachments/assets/e61fdeaa-0b1d-40df-afa8-8f8ee1b73581)
 
